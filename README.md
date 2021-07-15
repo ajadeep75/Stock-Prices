@@ -1,2 +1,2 @@
 # Stock-Prices
-Predict the Stock prices using Machine Learning
+Predict the Stock prices using Machine Learning (ARIMA Model)
